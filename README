@@ -1,0 +1,6 @@
+To compile: g++ network.cpp request.cpp main.cpp -o main --std=c++11
+To Run: ./main
+
+
+Result Folder Contains:
+Result data
